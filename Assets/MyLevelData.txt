@@ -1,0 +1,156 @@
+{
+    "data": [
+        {
+            "bugCount": 0,
+            "wordCount": 4,
+            "timeSec": 0,
+            "totalScore": 0,
+            "gridSize": {
+                "x": 4,
+                "y": 4
+            },
+            "gridData": [
+                {
+                    "tileType": 0,
+                    "letter": "W"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "S"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "E"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "A"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "T"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "A"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "O"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "Z"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "A"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "Y"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "V"
+                },
+                {
+                    "tileType": 2,
+                    "letter": "W"
+                },
+                {
+                    "tileType": 1,
+                    "letter": "N"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "D"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "P"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "E"
+                }
+            ]
+        },
+        {
+            "bugCount": 0,
+            "wordCount": 10,
+            "timeSec": 0,
+            "totalScore": 2500,
+            "gridSize": {
+                "x": 4,
+                "y": 4
+            },
+            "gridData": [
+                {
+                    "tileType": 0,
+                    "letter": "B"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "B"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "U"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "G"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "I"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "T"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "I"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "M"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "R"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "O"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "P"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "E"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "D"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "A"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "X"
+                },
+                {
+                    "tileType": 0,
+                    "letter": "Y"
+                }
+            ]
+        }
+    ]
+}
